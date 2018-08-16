@@ -1,4 +1,8 @@
 This my file
 This my new content
 This is todays changes
+<<<<<<< HEAD
 This is new local changes
+=======
+This is my remote changes
+>>>>>>> be7dde0bc0e553c21a9f4b7d5bfd0d1ae2b2b568
